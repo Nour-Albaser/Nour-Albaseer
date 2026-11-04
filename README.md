@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[d5c1758b-c2ec-4cf8-aa40-4aec83fc5177.png](https://github.com/Nour-Albaser/Nour-Albaseer/blob/main/d5c1758b-c2ec-4cf8-aa40-4aec83fc5177.jpg)" alt="AI Engineer & Flutter Developer Banner" width="100%" />
+  <img src="d5c1758b-c2ec-4cf8-aa40-4aec83fc5177.jpg" alt="AI Engineer & Flutter Developer Banner" width="100%" />
 </div>
 <br>
 <div align="center">
