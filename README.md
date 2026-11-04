@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="d5c1758b-c2ec-4cf8-aa40-4aec83fc5177.png" alt="AI Engineer & Flutter Developer Banner" width="100%" />
+</div>
+<br>
+<div align="center">
   <h2>Hi there, I'm Nour Albaser 👋</h2>
   <h4>AI Engineer 🧠 | Flutter Developer 📱 | Data Analysis 📊</h4>
   <p><i>Building intelligent, scalable, and practical software solutions.</i></p>
