@@ -1,8 +1,8 @@
 <div align="center">
   <h2>Hi there, I'm Nour Albaser 👋</h2>
-  <h4>AI Engineer 🧠 | Flutter Developer 📱 | Data Enthusiast 📊</h4>
+  <h4>AI Engineer 🧠 | Flutter Developer 📱 | Data Analysis 📊</h4>
   <p><i>Building intelligent, scalable, and practical software solutions.</i></p>
-  <p>📍 Damascus, Syria ➔ 🇩🇪 Relocating to Germany</p>
+  <p>📍 Damascus, Syria 
 </div>
 
 ---
